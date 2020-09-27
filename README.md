@@ -37,7 +37,7 @@
  ### Note: First Install & Run [ICSim](https://github.com/SouravSec/ICSim) then run canghost.sh
  
  <p align="center">
-  <img  width="900" src="canghost.jpeg" />
+  <img  width="900" src="Screenshot.png" />
 </p>
 
  ***
