@@ -41,7 +41,7 @@
 </p>
 
  ***
- <h3 align="center"><b>A Quick Tutorials</b></h3> 
+ <h3 align="center"><b>A Quick Tutorial</b></h3> 
  
  + **Preparing the Virtual CAN Network:**
  ```
@@ -59,7 +59,7 @@
   ubuntu@sourav:~/ICSim$./controls vcan0
  ```
  
- + **Now Starting CANghost:**
+ + **Now Start the CANghost:**
  ```
  ubuntu@sourav:~/CANghost$./canghost.sh vcan0 mylog
  ```
