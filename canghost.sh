@@ -20,14 +20,14 @@ green="\e[92m"
 
 if [ -z "$1" ]
   then
-    echo "Interface not supplied"
+    echo "Interface not supplied"  #interface not supplied 
     echo "Usage : Can.sh <Inferface> <NameForLogFile>"
     exit 1
 fi
 
 if [ -z "$2" ]
   then
-    echo "Log filename not supplied"
+    echo "Log filename not supplied" #logs not supplied
     echo "Usage : Can.sh <Inferface> <NameForLogFile>"
     exit 1
 fi
@@ -96,7 +96,7 @@ if [[ $option = 1 || $option = 01 ]]
                     clear
                     exit
 
-        else
+        else                              #except thing works from here
 		echo "Invalid Option..."
 		sleep 1
 		clear
