@@ -68,7 +68,7 @@ echo -e "\e[0m"                         
 menu(){
 clear
 logo
-echo -e "${green}                 Coded by ${bold}SouravSec with ${red}<3${reset}"
+echo -e "${green}                 Coded by ${bold}@souravbaghz with ${red}<3${reset}"
 echo -e "${bold} --------------------------------------------------------------"
 echo -e "${red}  [01] Capture"
 echo "  [02] Replay"
