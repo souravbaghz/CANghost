@@ -9,7 +9,7 @@
 
 * Any Linux Distributions (Ubuntu is Recommended)
 * can-utils
-* [ICSim - Car Simulation](https://github.com/SouravSec/ICSim)
+* [ICSim - Car Simulation](https://github.com/souravbaghz/ICSim)
 ***
 
 #### can-utils is a Linux specific set of utilities that enables Linux to communicate with the CAN network on the vehicle. The canutils consist of 5 main tools that we use very frequently:
@@ -26,7 +26,7 @@
  
  + **Installation of CANghost :**
  ```
- git clone https://github.com/SouravSec/CANghost
+ git clone https://github.com/souravbaghz/CANghost
  ```
  + **Usage:**
  ```
